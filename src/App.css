@@ -36,3 +36,14 @@
   padding:20px 5%; 
   border-radius: 15px;
 }
+
+.option-item{
+  background-color:#fff;
+  margin:15px 0;
+  padding:5px;
+}
+
+.option-item p{
+  display:inline-block;
+  margin:0 5% 0 0;
+}
